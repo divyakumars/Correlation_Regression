@@ -20,6 +20,14 @@ If y represents the dependent variable and x the independent variable, this rela
 
 
 
+
+
+
+
+
+
+
+
 # Program :
 ```
 Developed By:DIVYA K
