@@ -1,3 +1,7 @@
+EXP NO:3
+
+DATE:10-05-23
+
 # Correlation and regression for data analysis
 # Aim : 
 
